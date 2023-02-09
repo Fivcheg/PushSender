@@ -1,3 +1,3 @@
 package ru.netology.pusher
 
-const val token = "etxdD-8YQdC8hsmNinMfyd:APA91bGR97lpnm7EGiD7JE2imDuaYBVcGHHuXgwzH8ytpgwlPefnUCU2Os-e76wgEnxg6ss4d8GUMfDx2fsz1592u5mdsCG2RUi4G8ZWUZdx3TRO4_zK9hlM4q4rG-T-Ern7i8IpxKrd"
+const val token = "dDtSJzN4RAaqvctb50xtMP:APA91bFGlRsuACHcXlTrEsyg5b60TI0ucZq2O2E2BZAYYwJuIw-tNXoTEDKMLE3dfZik_BKButB1gODgBy91c0moIWO7vg4n6sYwf-RtO_wofuP-Y-acyqW3KTxHQQYo3zjcaFDIG5Df"
